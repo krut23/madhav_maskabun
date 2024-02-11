@@ -18,7 +18,7 @@ body{
 
 
 h1{
-    background-image: linear-gradient(to right, #ddcba6 0%, #e9ac31 100%);
+    background-image: linear-gradient(to right, #F0EEC1  0%, #d9d68b  100%);
     color: transparent;
     -webkit-background-clip: text;
     text-align: center;
@@ -31,7 +31,7 @@ img{
     margin-top:40px;
 }
 h2{
-    background-image: linear-gradient(to right, #ddcba6 0%, #e9ac31 100%);
+    background-image: linear-gradient(to right, #F0EEC1  0%, #d9d68b  100%);
     color: transparent;
     -webkit-background-clip: text;
     text-align:center;
